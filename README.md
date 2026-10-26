@@ -4249,7 +4249,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Web search and content extraction built for agents.
 - [TelcoData](https://www.telcodata.us/) `https://api.telcodata.us/mcp`
   [![TelcoData MCP connector](https://glama.ai/mcp/connectors/us.telcodata/telcodata/badges/score.svg)](https://glama.ai/mcp/connectors/us.telcodata/telcodata)
-  🔑 - Look up NANP numbers, exchanges, carrier profiles and telecom routing data with a TelcoData API key.
+  🔓 - Look up NANP numbers, exchanges, carrier profiles and telecom routing data.
 - [TerraLab MCP](https://terra-lab.ai/mcp) `https://mcp.terra-lab.ai/mcp`
   [![TerraLab MCP connector](https://glama.ai/mcp/connectors/ai.terra-lab/terralab/badges/score.svg)](https://glama.ai/mcp/connectors/ai.terra-lab/terralab)
   🔓 - Extract open map data, convert GIS files and coordinates, and retrieve elevation and French cadastral parcels.
